@@ -11,3 +11,17 @@ I enjoy discovering insights from data, building intelligent models, and turning
 - Excel  
 - SQL for data management  
 - Tableau
+
+🛠 Tools I Use:  
+Python • Jupyter • GitHub • SQL • scikit-learn • Excel
+
+📌 Projects I'm exploring:  
+- Simple Machine Learning Models  
+- Data Cleaning & Visualization Projects  
+- Real-world datasets (education, health, finance)
+
+📫 Let's Connect:  
+[LinkedIn] ............... • [Email](mailto:bambiabocletus@gmail.com)
+
+
+
